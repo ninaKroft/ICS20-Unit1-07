@@ -2,11 +2,11 @@
 <html>
 <body>
 
-<center><h1 id="text" >My first php website</h1></center>
+<h1>My first PHP page</h1>
 
 <?php
-echo "Hello, World!";
-?>
+echo "Hello World!";
+?> 
 
 </body>
 </html>
